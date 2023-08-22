@@ -94,6 +94,7 @@ h3 {
     height: auto;
     padding: 3px;
     color: #0074e4;
+    float: right;
 }
 
 li a svg {
